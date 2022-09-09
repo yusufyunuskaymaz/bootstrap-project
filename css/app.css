@@ -60,6 +60,21 @@
 
 /************* 4- INSTRUCTORS **************/
 
+section#instructors .card{
+    transition: transform .7s;
+}
+section#instructors .card:hover{
+    cursor: pointer;
+    transform: scale(1.03);
+}
+
+section#instructors .socials i{
+   transition: opacity .5s; 
+}
+
+section#instructors .socials i:hover{
+    opacity: .3;
+}
 
 /************* 5- STUDENTS SECTION **************/
 
