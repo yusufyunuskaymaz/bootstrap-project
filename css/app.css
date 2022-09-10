@@ -86,3 +86,7 @@ section#instructors .socials i:hover{
 
 
 /************* 7- FOOTER **************/
+
+.navbar-toggler{
+    border: none;
+}
